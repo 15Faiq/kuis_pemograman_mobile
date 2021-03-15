@@ -1,4 +1,4 @@
 # Kuis
 MI2B_15_FAIQ MAULANA
 ## Getting Started
-![Gambar](ss/gambar.jpeg)
+![gambar](ss/gambar.jpeg)
