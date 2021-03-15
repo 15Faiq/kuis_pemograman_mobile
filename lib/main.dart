@@ -118,7 +118,7 @@ class Mainkertas extends State<kertas> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text('Hasil',
+                    Text('Hasil Potong',
                         style: TextStyle(color: Colors.black, fontSize: 20)),
                     Text(
                       _luas.toStringAsFixed(0),
